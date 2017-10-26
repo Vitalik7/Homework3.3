@@ -1,0 +1,10 @@
+.image-gallery-image {
+  height: 450px;
+  position: relative;
+  background: grey;
+}
+.image-gallery-image img {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
