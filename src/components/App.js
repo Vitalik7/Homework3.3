@@ -9,22 +9,22 @@ class App extends Component {
 
     this.images = [
       {
-        original: require('./img/landing1.jpg')
+        original: require('../img/landing1.jpg')
       },
       {
-        original: require('./img/landing2.jpg')
+        original: require('../img/landing2.jpg')
       },
       {
-        original: require('./img/landing3.jpg')
+        original: require('../img/landing3.jpg')
       },
       {
-        original: require('./img/landing4.jpg')
+        original: require('../img/landing4.jpg')
       },
       {
-        original: require('./img/landing5.jpg')
+        original: require('../img/landing5.jpg')
       },
       {
-        original: require('./img/landing6.jpg')
+        original: require('../img/landing6.jpg')
       }
     ]
   }
